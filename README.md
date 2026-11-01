@@ -143,15 +143,3 @@ By reviewing product prices, improving inventory management and monitoring suppl
 - Business insights and recommendations
 
 
-
-## About Me
-
-I'm Mavis Masikati, a Cape Town-based aspiring data analyst with an interest in accounting, finance and business analytics.
-
-I use Excel, SQL and Power BI to turn business data into meaningful insights that help small businesses understand their sales, costs, inventory and profitability.
-
-**I'm open to freelance data analysis and bookkeeping opportunities.**
-
-- 🌍 Location: Cape Town, South Africa
-- 💼 LinkedIn: [Add LinkedIn link]
-- 🌐 Portfolio: [Visit my portfolio](https://mavismasikati.netlify.app/)
